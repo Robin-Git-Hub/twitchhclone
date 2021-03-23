@@ -12,7 +12,7 @@
     • Mise en production de l’application
     • Suivi et correction des bugs
 
-###"Environnement technique : 
+#### Environnement technique : 
 
 - Front : Html5 / Css3 / React.js
 - Client Http : Axios
