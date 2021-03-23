@@ -1,6 +1,6 @@
 # Project Twitch Clone
 
-## Projet : Application avec pour objectif de faire un clone de la plateforme de streamming Twitch en utilisant une Api et les hooks dans React.js
+## Application avec pour objectif de faire un clone de la plateforme de streamming Twitch en utilisant une Api et les hooks dans React.js
 
 ### Missions :
 
