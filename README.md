@@ -1,8 +1,8 @@
 # Project Twitch Clone
 
-Projet : Application avec pour objectif de faire un clone de la plateforme de streamming Twitch en utilisant une Api et les hooks dans React.js
+## Projet : Application avec pour objectif de faire un clone de la plateforme de streamming Twitch en utilisant une Api et les hooks dans React.js
 
-Missions :
+### Missions :
 
     • Création des différentes tâches sur Trello ( Kanban ) 
     • Mise en place de l’hébergement
@@ -12,7 +12,7 @@ Missions :
     • Mise en production de l’application
     • Suivi et correction des bugs
 
-Environnement technique : 
+###"Environnement technique : 
 
 - Front : Html5 / Css3 / React.js
 - Client Http : Axios
