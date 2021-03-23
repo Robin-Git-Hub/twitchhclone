@@ -14,11 +14,11 @@ Missions :
 
 Environnement technique : 
 
-Front : Html5 / Css3 / React.js
-Client Http : Axios
-Hébergement : Heroku
-Outils collaboratif: Trello
-VCS : GitHub
+- Front : Html5 / Css3 / React.js
+- Client Http : Axios
+- Hébergement : Heroku
+- Outils collaboratif: Trello
+- VCS : GitHub
 
 ## Start
 
